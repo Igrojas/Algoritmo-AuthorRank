@@ -1,0 +1,40 @@
+{
+  "1": {
+    "codigo_autor": 1,
+    "nombre_autor": "Autor 1",
+    "n_articulos": 2,
+    "coautores": {
+      "2": 1,
+      "3": 1
+    },
+    "articulos": [
+      "Paper 1",
+      "Paper 2"
+    ]
+  },
+  "2": {
+    "codigo_autor": 2,
+    "nombre_autor": "Autor 2",
+    "n_articulos": 2,
+    "coautores": {
+      "1": 1,
+      "3": 1
+    },
+    "articulos": [
+      "Paper 1",
+      "Paper 2"
+    ]
+  },
+  "3": {
+    "codigo_autor": 3,
+    "nombre_autor": "Autor 3",
+    "n_articulos": 1,
+    "coautores": {
+      "1": 1,
+      "2": 1
+    },
+    "articulos": [
+      "Paper 1"
+    ]
+  }
+}
